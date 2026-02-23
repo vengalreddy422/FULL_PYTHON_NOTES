@@ -1,0 +1,158 @@
+		============================================
+					Matplotlib
+		============================================ 
+Introduction to Matplotlib
+•	Matplotlib Introduction 
+•	Need of Data visualization
+•	Basic Introduction to Matplotlib 
+•	Installing Matplotlib
+
+Line Plot- Basics
+•	Types of Plots 
+•	Matplotlib Anatomy 
+•	Line plots 
+•	Creation of line plot by passing 2 nd-arrays
+•	What is figure
+•	How to add title to the line plot
+•	How to add xlabel and ylabel to the line plot
+
+Line Plots-Advanced
+•	Line properties 
+•	Marker property
+•	Linestyle Property 
+•	color property 
+•	default color 
+•	Shortcut way to set color, marker and line style 
+•	alpha property 
+•	linewidth and marker size
+•	Components of Line plot 
+•	Sequence of Activities of plot() function
+•	To get all default settings in Matplotlib
+•	How to save line plot to a file 
+•	To know the supported files types for saving figure object 
+•	Creation of line plot by passing a single ndarray
+•	Multiple lines on the same Plot 
+•	How to customize title properties 
+•	Customization of xlabel and ylabel
+
+How to add grid lines to plot
+•	How to add grid lines to plot:
+•	Various cases of grid() function usage
+•	which property 
+•	Difference between major and minor grid lines: 
+•	axis property 
+•	Passing other keyword arguments
+
+Adding Legend
+•	Legend 
+•	legend()
+•	legend(labels)
+•	legend(handles, labels):
+•	How to adjust legend location
+•	How to specify number of columns in the legend
+•	Adding title to legend 
+•	How to add legend outside of the plot
+
+Customization of Tick Location and Labels
+•	Customization of tick location and labels 
+•	Without customizing xticks() and yticks() -->default values are based on the input 
+•	customizing xticks()
+•	customizting both xticks() and yticks() 
+•	disabling xticks() or yticks()
+
+How to set limit range of values on x-axis and y-axis by using xlim() and ylim() functions:
+•	How to set limit range of values on x-axis and y-axis 
+•	xlim()
+•	ylim()
+
+How to set scale of x-axis and y-axis?
+•	Scaling: How to set scale for x-axis and y-axis: 
+•	Linear scaling 
+•	Logarithmic scaling 
+•	How to customize base value in logarithmic scaling
+
+Plotting Styles:
+•	Plotting styles 
+•	To know the plotting styles available in matplotlib 
+•	How to use the style 
+•	Default styling
+
+Bar Chart/ Bar Graph/ Bar Plot:
+•	Bar Chart/Bar Graph/Bar Plot 
+•	Simple bar chart/vertical bar chart: 
+•	Represent the number of movies of each hero by using bar chart 
+•	Mobile Sales of Nokia Company from 2011 to 2020 
+•	How to add labels to the bar 
+•	pyplot.text() 
+•	Adding Labels for the data points of lineplot: 
+•	pyplot.annotate() 
+•	How to add labels to the bar chart: 
+•	With more readable labels
+•	Plotting bar chart with data from csv file 
+•	Horizontal bar chart: 
+•	Stacked Bar chart: 
+•	Clustered Bar chart/Grouped Bar Chart/Multiple Bar Chart:
+
+Pie Chart:
+•	Pie Chart 
+•	Adding Labels ==> labels argument 
+•	autopct 
+•	explode
+•	shadow 
+•	colors 
+•	VIBGYOR colors
+•	startangle
+•	counterclock 
+•	Adding legend 
+•	wedgeprops 
+•	edgecolor 
+•	edgecolor and linestyle 
+•	edgecolor, linestyle and linewidth
+•	Examples
+
+Histogram:
+•	Histograms 
+•	How to change color of bars in histogram 
+•	How to change color of the each bars in histogram 
+•	To change color of first bar 
+•	To change color of each bar 
+•	How to get the real data sets 
+•	How many movies and TV shows are released on Netflix year-wise 
+•	Number of movies and TV shows are released on Netflix from 2000 to 2021
+•	Number of movies and TV shows are released on Netflix from 2000 to 2021
+•	only from 'India' 
+•	Number of movies and TV shows released in past decade
+
+Scatter Plots:
+•	Scatter plot 
+•	Changing the color and size of the markers 
+•	How to change color of the marker 
+•	Different colors for each markers 
+•	Changing the size of the marker 
+•	Different sizes for the markers 
+•	cmap ==> colormap 
+•	colormap ==> viridis 
+•	colormap ==> summer 
+•	colormap ==> winter 
+•	colormap ==> cool 
+•	colormap ==> hot 
+•	colormap ==> rainbow
+•	colormap ==> rainbow_r ==> reverse of rainbow 
+•	colormap ==> prism 
+•	colormap ==> flag 
+•	usage of keyword argument c with cmap 
+•	usage of keyword argument c without cmap 
+•	Line plot vs scatter plot: 
+•	How to add labels to scatter plot data points: 
+•	using plt.text(x,y,text) 
+•	using plt.annotate(text,(x,y)) 
+•	How to add color legend to the scatter plot
+•	Kaggle Case Study : Latest Covid-19 India Statewise Data
+
+Subplots:
+•	Subplots
+•	Need of subplots
+•	How to create subplots: 
+•	pyplot.subplot() function 
+•	pyplot.subplots() function .
+=============================================x==============================================

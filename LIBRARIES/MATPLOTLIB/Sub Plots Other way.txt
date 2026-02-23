@@ -1,0 +1,25 @@
+			Sub Plots Other way
+===========================================================================
+import matplotlib.pyplot as plt
+import numpy as np
+
+fig = plt.figure(figsize=(12, 6))
+
+x = np.arange(0, 10, 0.1)
+y = np.sin(x)
+z = np.cos(x)
+
+ax1 = fig.add_subplot(121)
+ax2 = fig.add_subplot(122)
+
+ax1.set_title('Full view')
+ax1.plot(y, color='blue', label='Sine wave')
+ax1.plot(z, color='black', label='Cosine wave')
+
+ax2.set_title('Truncated view')
+ax2.plot(y, color='blue', label='Sine wave')
+ax2.plot(z, color='black', label='Cosine wave')
+
+ax2.set_xlim([25, 50])
+
+plt.show()
