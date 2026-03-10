@@ -1,0 +1,164 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="120" height="120"/>
+
+# 🐍 Full Python Notes
+
+### A complete, structured collection of Python programming notes — from basics to advanced topics.
+
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![GitHub](https://img.shields.io/badge/GitHub-vengalreddy422-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vengalreddy422)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
+[![Purpose](https://img.shields.io/badge/Purpose-Learning%20%26%20Reference-orange?style=for-the-badge)]()
+
+</div>
+
+---
+
+## 📌 About This Repository
+
+This repository contains my **complete Python learning notes**, organized from beginner to advanced level. Each topic includes clear explanations, syntax breakdowns, and practical code examples.
+
+> 💡 Built as a personal reference for **revision**, **interview preparation**, and **concept clarity**.
+
+---
+
+## 📂 Repository Structure
+```
+FULL_PYTHON_NOTES/
+│
+├── 📁 Python Basics/
+├── 📁 Control Flow/
+├── 📁 Data Structures/
+├── 📁 Functions/
+├── 📁 Object-Oriented Programming/
+├── 📁 Exception Handling/
+├── 📁 File Handling/
+├── 📁 Modules and Packages/
+├── 📁 Advanced Python/
+└── 📁 Python Libraries/
+```
+
+---
+
+## 🗂️ Topics Covered
+
+<details>
+<summary><b>🔰 Python Basics</b></summary>
+
+- Introduction to Python & Installation
+- Variables, Data Types, Type Casting
+- Operators (Arithmetic, Logical, Bitwise)
+- Input and Output
+
+</details>
+
+<details>
+<summary><b>🔀 Control Flow</b></summary>
+
+- if, elif, else
+- for loop & while loop
+- break, continue, pass
+
+</details>
+
+<details>
+<summary><b>🗃️ Data Structures</b></summary>
+
+- Strings, Lists, Tuples, Sets, Dictionaries
+
+</details>
+
+<details>
+<summary><b>⚙️ Functions</b></summary>
+
+- Defining functions, *args/**kwargs, Lambda, Recursion
+
+</details>
+
+<details>
+<summary><b>🏛️ OOP</b></summary>
+
+- Classes, Inheritance, Polymorphism, Encapsulation, Abstraction
+
+</details>
+
+<details>
+<summary><b>⚠️ Exception Handling</b></summary>
+
+- try / except / finally, Custom Exceptions
+
+</details>
+
+<details>
+<summary><b>📁 File Handling</b></summary>
+
+- Read, Write, Append, File Modes
+
+</details>
+
+<details>
+<summary><b>🚀 Advanced Python</b></summary>
+
+- Decorators, Generators, Iterators, Comprehensions, Multithreading
+
+</details>
+
+<details>
+<summary><b>📚 Python Libraries</b></summary>
+
+| Library | Purpose |
+|---------|---------|
+| NumPy | Numerical computing |
+| Pandas | Data analysis |
+| Datetime | Date/time operations |
+| JSON | Parsing JSON |
+| Random | Random number generation |
+
+</details>
+
+---
+
+## 🎯 Purpose
+
+- 📖 Structured learning notes
+- 🔁 Quick revision reference
+- 💼 Interview preparation
+- 🧠 Concept clarity with examples
+
+---
+
+## 🌟 Key Interview Topics
+
+- OOP concepts (very frequently asked)
+- List vs Tuple vs Set vs Dictionary
+- Mutable vs Immutable types
+- Decorators and Generators
+- Exception Handling patterns
+- Lambda, map(), filter(), reduce()
+
+---
+
+## 🛠️ Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 👨‍💻 Author
+
+**Yaswanth (Vengal Reddy)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-vengalreddy422-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vengalreddy422)
+
+---
+
+<div align="center">
+
+⭐ If you find these notes helpful, feel free to star the repository! ⭐
+
+*Happy Learning & Happy Coding! 🚀*
+
+</div>
